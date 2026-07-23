@@ -1,5 +1,8 @@
 
 # 🧠 Understanding LSTM Networks (Long Short-Term Memory)
+
+📄 Reference: Adapted from Christopher Olah's classic blog post:
+[GitHub Docs]([https://docs.github.com](https://colah.github.io/posts/2015-08-Understanding-LSTMs/))
 ## ⚙️ How It Works (Step-by-Step)
 
 ```
