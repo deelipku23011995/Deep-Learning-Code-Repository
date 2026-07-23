@@ -4,7 +4,7 @@ An extensive deep learning benchmarking project using **Keras / TensorFlow** on 
 
 ---
 
-## 📌 Project Overview
+## 📌 Notebook Overview
 
 The main objective of this project is to analyze how varying hyperparameter combinations—specifically **depth (number of layers)**, **weight initialization**, **regularization**, and **optimization algorithms**—influence convergence speed and classification performance.
 
@@ -40,14 +40,3 @@ The **MNIST** dataset consists of $70,000$ grayscale images of handwritten digit
 
 ---
 
-## ⚙️ Requirements & Installation
-
-To run the notebook locally, clone the repository and install the dependencies:
-
-```bash
-# Clone the repository
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
-
-# Install required packages
-pip install tensorflow numpy matplotlib scikit-learn jupyter
