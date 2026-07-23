@@ -1,8 +1,14 @@
 
 # 🧠 Understanding LSTM Networks (Long Short-Term Memory)
 
-📄 Reference: Adapted from Christopher Olah's classic blog post:
-[GitHub Docs]([https://docs.github.com](https://colah.github.io/posts/2015-08-Understanding-LSTMs/))
+An intuitive, step-by-step breakdown of how an **LSTM** unit manages long-term dependencies using gates and cell states.
+
+> 📄 **Reference:** Adapted from Christopher Olah's classic blog post:
+> [Understanding LSTM Networks (colah's blog)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+---
+
+
 ## ⚙️ How It Works (Step-by-Step)
 
 ```
@@ -70,4 +76,10 @@ $$h_t = o_t * \tanh(C_t)$$
 
 ---
 
-> **💡 Key takeaway:** The **cell state** acts as a conveyor belt, while the **forget, input, and output gates** act as precision control valves that regulate what is retained, updated, and transmitted.
+> **💡 Key Takeaway:** The **cell state** acts as a conveyor belt, while the **forget, input, and output gates** act as precision control valves that regulate what is retained, updated, and transmitted.
+
+---
+
+## 🔗 Resources & Further Reading
+
+* 📖 **Original Article:** [Understanding LSTM Networks by Christopher Olah](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
